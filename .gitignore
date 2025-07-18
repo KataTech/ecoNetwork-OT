@@ -1,0 +1,5 @@
+# Ignore the local environment files, which can be reproduced from 
+# the environment.yml file.
+envs
+# Ignore the Jupyter Notebook checkpoints
+__pycache__
