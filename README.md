@@ -1,4 +1,7 @@
 # ecoNetwork-OT
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16103567.svg)](https://doi.org/10.5281/zenodo.16103567)
+
 This repository holds the codebase for applying optimal transport to compare ecological networks, as documented in "Quantifying functionally equivalent species and ecological network dissimilarity with optimal transport distances." In particular, the repo contains code for operating over the synthetic networks.  
 
 Refer to the Start-Up Guide for your first time working with this repository and Table of Content if you are looking to reference specific scripts and/or directories.
